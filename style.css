@@ -78,13 +78,13 @@ fieldset:nth-child(4) {
   top: -10px;
   color: #00acd7;
 }
-#seletor.container {
-  
+#divSeletor {
+  margin: auto;
 }
 section button {
   margin: 20px 0;
   margin-left: 10px;
-  width: calc(50% -10px);
+  width: calc(50% - 10px);
   height: 70px;
   background: #00acd7;
   color: #fff;
